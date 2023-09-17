@@ -9,6 +9,33 @@ Create a React component for a multi-step form with at least three different que
 - Backend: Node.js
 - API: GraphQL
 
+# INSTALLATION
+
+## Frontend
+1. Navigate to the `frontend/` directory using your terminal.
+
+2. Install the required dependencies:
+```
+npm install
+```
+
+3. Start the development server with:
+```
+npm start
+```
+## Backend
+1. Open your terminal and navigate to the `backend/` directory.
+
+2. Install the required dependencies:
+```
+npm install
+```
+
+3. Start the development server with:
+```
+node server.js
+```
+
 # Screenshot
 ![Demo](https://github.com/Mirza-Hassan/React_Multi-Step_Form/assets/17096257/2e996b0c-2294-4494-905d-eabcc6d4796c)
 
